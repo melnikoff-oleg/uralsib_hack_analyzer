@@ -1,0 +1,2 @@
+data_path: data/uralsib_simple_data.csv
+build_plots: false
